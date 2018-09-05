@@ -40,8 +40,9 @@
 #
 ####################################################################################################
 
-jssURL="zdorow.jamfcloud.com" # jss.company.com:8443
-apiUserAndPass="Eauk:jamf1234" # apiUserAndPass="admin:jamf1234"
+##### VALUES THAT NEED TO BE FILLED IN!
+jssURL="" # jss.company.com:8443
+apiUserAndPass="" # apiUserAndPass="admin:jamf1234"
 
 # File creation
 userList=`mktemp /tmp/deleteStatic.XXXXXXXXX`
